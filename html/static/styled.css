@@ -1,0 +1,77 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, serif;
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+}
+
+main {
+    background-color: #efefef;
+    max-width: 600px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 2px 2px 15px 0 rgba(0, 0, 0, .1);
+}
+
+header {
+    background: orangered;
+    padding: 4rem;
+    text-align: center;
+    border-bottom: rgba(0, 0, 0, .15) 1px solid;
+    color: white;
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+header h2 {
+    font-weight: normal;
+    opacity: .5;
+    margin-bottom: 0;
+}
+
+ul {
+    display: flex;
+    gap: .5rem;
+    list-style: none;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+ul > li {
+    flex-basis: calc(50% - .5rem);
+    background-color: rgba(0, 0, 0, .1);
+    border-radius: 6px;
+    transition: .2s all;
+}
+
+ul > li:hover {
+    background-color: rgba(0, 0, 0, .2);
+    transform: scale(1.01);
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, .1);
+}
+
+ul > li > a {
+    text-decoration: inherit;
+    color: inherit;
+    display: block;
+    padding: 1.5rem 0;
+    text-align: center;
+}
+
+.content {
+    padding: 3rem 4rem;
+    background-color: #fff4f0;
+}
