@@ -50,8 +50,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
-    outputs:
-      REBUILD_FRONT_END: ${{ env.REBUILD_FRONT_END }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
@@ -67,5 +65,5 @@ jobs:
         with:
           owner: codeplaysoftware
           repo: sycl.tech-website
-          github_token: ${{ secrets.SYCL_TECH_SYNC_TOKEN }}
+          github_token: ${{ secrets.FRONT_END_REBUILD_TOKEN }}
           workflow_file_name: build.yml
