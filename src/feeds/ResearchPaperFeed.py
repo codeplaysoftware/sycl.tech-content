@@ -77,7 +77,7 @@ class ResearchPaperFeed(BaseJsonFeed):
         self,
         feed_items: [JsonFeedItem]
     ) -> Filters:
-        filters = Filters(1)
+        filters = Filters(2)
 
         for feed_item in feed_items:
             if feed_item.has_value('tags'):
