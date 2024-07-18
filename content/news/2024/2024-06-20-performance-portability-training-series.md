@@ -12,7 +12,7 @@ tags:
   - cuda
 ---
 
-Portable SYCL code using oneMKL on AMD, Intel, and Nvidia GPUs, presented by CodePlay and Intel, is part of the
+Portable SYCL code using oneMKL on AMD, Intel, and Nvidia GPUs, presented by Codeplay and Intel, is part of the
 Performance Portability training series. Offered by NERSC, OLCF, and ALCF, the series features training sessions on
 various performance portable programming solutions to help ease developer transitions between current and emerging
 high-performance computing (HPC) systems, such as the NERSC Perlmutter and ALCF Polaris (AMD CPU and Nvidia GPU), OLCF
