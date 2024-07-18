@@ -4,7 +4,6 @@ date: '2023-11-13T11:20:38.571807'
 external_url: https://www.khronos.org/blog/exascale-computing-project-at-the-university-of-cambridge-uses-sycl-to-develop-performance-portable-fenics-libraries-for-the-finite-element-method
 image: ../../../static/images/news/2023-11-13-exascale-computing-project-at-the-university-of-cambridge-uses-khronos-sycl-standard.webp
 title: Exascale Computing Project at the University of Cambridge uses Khronos SYCL Standard
-pinned: true
 tags:
   - exascale
   - fenics
