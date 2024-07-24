@@ -6,7 +6,6 @@ title: 'Innovative language extensions for accelerator cards using the example o
 external_url: https://github.com/j-stephan/fpg/blob/master/paper.pdf
 authors:
   - name: Jan Stephan
-    affiliation: Technische Universität Dresden
 tags:
   - benchmarking
   - cuda

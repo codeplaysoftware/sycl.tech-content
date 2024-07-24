@@ -5,11 +5,8 @@ title: 'Evaluating the Performance and Portability of Contemporary SYCL Implemen
 external_url: https://ieeexplore.ieee.org/document/9309045
 authors:
   - name: Beau Johnston
-    affiliation: Oak Ridge National Laboratory
   - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
   - name: Josh Milthorpe
-    affiliation: Australian National University
 tags:
   - benchmarks
   - performance

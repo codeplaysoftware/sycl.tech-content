@@ -5,11 +5,8 @@ title: 'Portability and Performance Assessment of the Non-Negative Matrix Factor
 external_url: https://ieeexplore.ieee.org/document/9959906
 authors:
   - name: Youssef Faqir-Rhazoui
-    affiliation: Universidad Complutense de Madrid
   - name: Carlos García
-    affiliation: Instituto de Tecnología del Conocimiento
   - name: Francisco Tirado
-    affiliation: Informática
 tags:
   - openmp
   - sycl

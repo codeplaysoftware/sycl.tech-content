@@ -5,11 +5,8 @@ title: 'A First Step towards Support for MPI Partitioned Communication on SYCL-p
 external_url: https://ieeexplore.ieee.org/document/10027494
 authors:
   - name: Steffen Christgau
-    affiliation: Zuse Institute Berlin, Berlin
   - name: Marius Knaust
-    affiliation: Zuse Institute Berlin, Berlin
   - name: Thomas Steinke
-    affiliation: Zuse Institute Berlin, Berlin
 tags:
   - fpgas
   - mpi

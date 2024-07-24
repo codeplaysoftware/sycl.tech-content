@@ -5,19 +5,12 @@ title: 'Evaluating Performance Portability of SYCL and Kokkos: A Case Study on L
 external_url: https://ieeexplore.ieee.org/document/10491773
 authors:
   - name: Yue Ding
-    affiliation: National University of Defense Technology
   - name: Chuanfu Xu
-    affiliation: National University of Defense Technology
   - name: Haozhong Qiu
-    affiliation: National University of Defense Technology
   - name: Qingsong Wang
-    affiliation: National University of Defense Technology
   - name: Weixi Dai
-    affiliation: National University of Defense Technology
   - name: Yongzhen Lin
-    affiliation: National University of Defense Technology
   - name: Yonggang Che
-    affiliation: National University of Defense Technology
 tags:
   - kokkos
   - performance

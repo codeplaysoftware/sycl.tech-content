@@ -5,21 +5,14 @@ title: Performance portability of a Wilson Dslash Stencil Operator Mini-App usin
 external_url: https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_p3hpc116s2-file1.pdf
 authors:
   - name: Bálint Joó
-    affiliation: Jefferson Lab
+    
   - name: Thorsten Kurth
-    affiliation: NERSC
   - name: M. A. Clark
-    affiliation: NVIDIA
   - name: Jeongnim Kim
-    affiliation: Intel Corporation
   - name: Christian R. Trott
-    affiliation: Sandia National Laboratories
   - name: Dan Ibanez
-    affiliation: Sandia National Laboratories
   - name: Dan Sunderland
-    affiliation: Sandia National Laboratories
   - name: Jack Deslippe
-    affiliation: NERSC
 tags:
   - portability
   - benchmarking

@@ -5,15 +5,10 @@ title: 'Comparing Performance and Portability Between CUDA and SYCL for Protein 
 external_url: https://ieeexplore.ieee.org/document/10306194
 authors:
   - name: Manuel Costanzo
-    affiliation: UNLP - CIC, La Plata
   - name: Enzo Rucci
-    affiliation: UNLP - CIC, La Plata
   - name: Carlos García-Sánchez
-    affiliation: Universidad Complutense de Madrid
   - name: Marcelo Naiouf
-    affiliation: UNLP - CIC, La Plata
   - name: Manuel Prieto-Matías
-    affiliation: Universidad Complutense de Madrid
 tags:
   - cuda
   - gpu

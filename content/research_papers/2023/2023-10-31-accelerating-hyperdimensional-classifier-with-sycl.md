@@ -5,9 +5,7 @@ title: 'Accelerating Hyperdimensional Classifier with SYCL'
 external_url: https://ieeexplore.ieee.org/document/10321902
 authors:
   - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
   - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
 tags:
   - parallel
   - search

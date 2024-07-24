@@ -5,11 +5,8 @@ title: 'Efficient Hardware-Agnostic DBMS Operator Implementation Using SYCL'
 external_url: https://ieeexplore.ieee.org/document/9681747
 authors:
   - name: Daniil Kulikov
-    affiliation: SPbU
   - name: Daria Nikolskaia
-    affiliation: ITMO
   - name: Petr Kurapov
-    affiliation: MIPT
 tags:
   - parallel programming
   - hash-join

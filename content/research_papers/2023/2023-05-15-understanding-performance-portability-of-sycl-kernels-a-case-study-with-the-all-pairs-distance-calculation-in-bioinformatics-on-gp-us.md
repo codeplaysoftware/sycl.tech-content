@@ -5,9 +5,7 @@ title: 'Understanding Performance Portability of SYCL Kernels: A Case Study with
 external_url: https://ieeexplore.ieee.org/document/10196541
 authors:
   - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
   - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
 tags:
   - portability
   - performance

@@ -5,21 +5,13 @@ title: 'Performance Portability of a Wilson Dslash Stencil Operator Mini-App Usi
 external_url: https://ieeexplore.ieee.org/document/8945798
 authors:
   - name: Bálint Joó
-    affiliation: Jefferson Lab
   - name: Thorsten Kurth
-    affiliation: NERSC
   - name: M. A. Clark
-    affiliation: NVIDIA
   - name: Jeongnim Kim
-    affiliation: Intel Corporation
   - name: Christian Robert Trott
-    affiliation: Sandia National Laboratories
   - name: Dan Ibanez
-    affiliation: Sandia National Laboratories
   - name: Daniel Sunderland
-    affiliation: Sandia National Laboratories
   - name: Jack Deslippe
-    affiliation: NERSC
 tags:
   - kokkos
   - performance

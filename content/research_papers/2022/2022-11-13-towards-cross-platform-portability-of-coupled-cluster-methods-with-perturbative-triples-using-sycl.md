@@ -5,13 +5,9 @@ title: 'Towards Cross-Platform Portability of Coupled-Cluster Methods with Pertu
 external_url: https://ieeexplore.ieee.org/document/10024604
 authors:
   - name: Abhishek Bagusetty
-    affiliation: Argonne National Laboratory
   - name: Ajay Panyala
-    affiliation: Pacific Northwest National Laboratory
   - name: Gordon Brown
-    affiliation: Codeplay Software Ltd
   - name: Jack Kirk
-    affiliation: Codeplay Software Ltd
 tags:
   - performance
   - nvidia

@@ -5,19 +5,12 @@ title: 'Case Study of Using Kokkos and SYCL as Performance-Portable Frameworks f
 external_url: https://ieeexplore.ieee.org/document/9652859
 authors:
   - name: Amanda S. Dufek
-    affiliation: NERSC/LBNL
   - name: Rahulkumar Gayatri
-    affiliation: NERSC/LBNL
   - name: Neil Mehta
-    affiliation: NERSC/LBNL
   - name: Douglas Doerfler
-    affiliation: NERSC/LBNL
   - name: Brandon Cook
-    affiliation: NERSC/LBNL
   - name: Yasaman Ghadar
-    affiliation: Argonne National Laboratory
   - name: Carleton DeTar
-    affiliation: University of Utah
 tags:
   - kokkos
   - milc-dslash

@@ -5,19 +5,12 @@ title: 'Migration of CUDA Based Seismic Application to Cross-Platform SYCL Imple
 external_url: https://ieeexplore.ieee.org/document/10502402
 authors:
   - name: Om Jadhav
-    affiliation: HPC-Technologies Group
   - name: Sandeep Agrawal
-    affiliation: HPC-Technologies Group
   - name: Abhishek Srivastava
-    affiliation: HPC-SE&A Group
   - name: Richa Rastogi
-    affiliation: HPC-SE&A Group
   - name: Sanjay Wandhekar
-    affiliation: HPC-Technologies Group
   - name: Vinutha SV
-    affiliation: Intel Technology India Pvt. Ltd
   - name: Jyotsna Khemka
-    affiliation: Intel Technology India Pvt. Ltd
 tags:
   - acoustic-waves
   - seismic-data

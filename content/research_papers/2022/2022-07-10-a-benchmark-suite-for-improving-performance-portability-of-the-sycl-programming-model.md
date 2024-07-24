@@ -5,9 +5,7 @@ title: 'A Benchmark Suite for Improving Performance Portability of the SYCL Prog
 external_url: https://ieeexplore.ieee.org/document/10158214
 authors:
   - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
   - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
 tags:
   - benchmarking
   - performance

@@ -5,11 +5,8 @@ title: 'Performance Study of GPU applications using SYCL and CUDA on Tesla V100 
 external_url: https://ieeexplore.ieee.org/document/9622813
 authors:
   - name: Goutham Kalikrishna Reddy Kuncham
-    affiliation: NextGen R&D
   - name: Rahul Vaidya
-    affiliation: NextGen R&D
   - name: Mahesh Barve
-    affiliation: HPC Center Of Excellence
 tags:
   - performance
   - runtime

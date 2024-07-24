@@ -5,9 +5,7 @@ title: Evaluation of Medical Imaging Applications using SYCL
 external_url: https://ieeexplore.ieee.org/document/8982983
 authors:
   - name: Zheming Jin
-    affiliation: Argonne National Laboratory
   - name: Hal Finkel
-    affiliation: Argonne National Laboratory
 tags:
   - benchmark
   - performance

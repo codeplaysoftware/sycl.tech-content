@@ -5,9 +5,7 @@ title: 'Understanding SYCL Portability for Pseudorandom Number Generation: a Cas
 external_url: https://ieeexplore.ieee.org/document/10196601
 authors:
   - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
   - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
 tags:
   - portability
   - pseudorandom

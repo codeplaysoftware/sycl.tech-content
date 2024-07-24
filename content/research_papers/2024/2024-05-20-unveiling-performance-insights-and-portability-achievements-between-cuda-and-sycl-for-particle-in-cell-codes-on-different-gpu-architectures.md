@@ -5,13 +5,9 @@ title: 'Unveiling Performance Insights and Portability Achievements Between CUDA
 external_url: https://ieeexplore.ieee.org/document/10569866
 authors:
   - name: Ivona Vasileska
-    affiliation: University of Ljubljana
   - name: Pavel Tomšič
-    affiliation: University of Ljubljana
   - name: Leon Kos
-    affiliation: University of Ljubljana
   - name: Leon Bogdanović
-    affiliation: University of Ljubljana
 tags:
   - gpu
   - cuda

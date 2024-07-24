@@ -5,9 +5,7 @@ title: A Case Study of k-means Clustering using SYCL
 external_url: https://ieeexplore.ieee.org/document/9005555
 authors:
   - name: Zheming Jin
-    affiliation: Argonne National Laboratory
   - name: Hal Finkel
-    affiliation: Argonne National Laboratory
 tags:
   - benchmark
   - energy-consumption

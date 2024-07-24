@@ -5,21 +5,13 @@ title: 'Experiences Building an MLIR-Based SYCL Compiler'
 external_url: https://ieeexplore.ieee.org/document/10444866
 authors:
   - name: Ettore Tiotto
-    affiliation: Intel Corporation
   - name: Víctor Pérez
-    affiliation: Codeplay Software
   - name: Whitney Tsang
-    affiliation: Intel Corporation
   - name: Lukas Sommer
-    affiliation: Codeplay Software
   - name: Julian Oppermann
-    affiliation: Codeplay Software
   - name: Victor Lomüller
-    affiliation: Codeplay Software
   - name: Mehdi Goli
-    affiliation: Codeplay Software
   - name: James Brodman
-    affiliation: Intel Corporation
 tags:
   - SYCL
   - MLIR

@@ -5,11 +5,8 @@ title: 'A Case Study on the HACCmk Routine in SYCL on Integrated Graphics'
 external_url: https://ieeexplore.ieee.org/document/9150310
 authors:
   - name: Zheming Jin
-    affiliation: Argonne National Laboratory
   - name: Vitali Morozov
-    affiliation: Argonne National Laboratory
   - name: Hal Finkel
-    affiliation: Argonne National Laboratory
 tags:
   - compute
   - haccmk

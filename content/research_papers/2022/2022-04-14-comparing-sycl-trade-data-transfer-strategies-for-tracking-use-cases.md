@@ -5,13 +5,9 @@ title: Comparing SYCL&trade; Data Transfer Strategies for Tracking Use Cases
 external_url: https://iopscience.iop.org/article/10.1088/1742-6596/2438/1/012018/pdf
 authors:
   - name: Sylvain Joube
-    affiliation: Universit´e Paris-Saclay
   - name: Hadrien Grasland
-    affiliation: Universit´e Paris-Saclay
   - name: David Chamont
-    affiliation: Universit´e Paris-Saclay
   - name: Elisabeth Brunet
-    affiliation: Institut Polytechnique de Paris
 tags:
   - performance
   - benchmarking

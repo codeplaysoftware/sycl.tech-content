@@ -5,13 +5,9 @@ title: 'Benchmarking and Extending SYCL Hierarchical Parallelism'
 external_url: https://ieeexplore.ieee.org/document/9654235
 authors:
   - name: Tom Deakin
-    affiliation: University of Bristol
   - name: Simon McIntosh-Smith
-    affiliation: University of Bristol
   - name: Aksel Alpay
-    affiliation:  Universität Heidelberg
   - name: Vincent Heuveline
-    affiliation: Universität Heidelberg
 tags:
   - benchmarks
   - extending

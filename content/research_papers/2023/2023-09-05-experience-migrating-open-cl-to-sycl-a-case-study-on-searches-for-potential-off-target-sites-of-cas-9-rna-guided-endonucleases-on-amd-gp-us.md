@@ -5,9 +5,7 @@ title: 'Experience Migrating OpenCL to SYCL: A Case Study on Searches for Potent
 external_url: https://ieeexplore.ieee.org/document/10256881
 authors:
   - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
   - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
 tags:
   - sequence
   - analysis

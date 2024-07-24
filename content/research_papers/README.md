@@ -14,9 +14,7 @@ title: My Research Paper
 external_url: https://link-to-paper.com/research-paper-1
 authors:
   - name: John Smith
-    affiliation: University of Sycl
   - name: Alice Ryan
-    affiliation: University of Space
 ---
 
 Your description of the research paper here.
