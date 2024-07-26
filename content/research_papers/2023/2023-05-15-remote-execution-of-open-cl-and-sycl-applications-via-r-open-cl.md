@@ -4,10 +4,8 @@ date: '2023-05-15T08:08:10.490000+00:00'
 title: 'Remote Execution of OpenCL and SYCL Applications via rOpenCL'
 external_url: https://ieeexplore.ieee.org/document/10196646
 authors:
-  - name: Rui Alves
-    affiliation: Instituto Politécnico de Bragança Campus de Santa Apolónia
-  - name: José Rufino
-    affiliation: Instituto Politécnico de Bragança
+  - Rui Alves
+  - José Rufino
 tags:
   - hpc
   - api

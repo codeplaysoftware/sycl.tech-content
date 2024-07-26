@@ -4,20 +4,13 @@ date: '2018-07-10T08:08:10.490000+00:00'
 title: 'Solving Maxwells Equations with Modern C++ and SYCL: A Case Study'
 external_url: https://ieeexplore.ieee.org/document/8445127
 authors:
-  - name: Ayesha Afzal
-    affiliation: Friedrich-Alexander university Erlangen-Nurnberg
-  - name: Christian Schmitt
-    affiliation: Friedrich-Alexander university Erlangen-Nurnberg
-  - name: Samer Alhaddad
-    affiliation: Paderborn University
-  - name: Yevgen Grynko
-    affiliation: Paderborn University
-  - name: Jurgen Teich
-    affiliation: Friedrich-Alexander university Erlangen-Nurnberg
-  - name: Jens Forstner
-    affiliation: Paderborn University
-  - name: Frank Hannig
-    affiliation: Friedrich-Alexander university Erlangen-Nurnberg
+  - Ayesha Afzal
+  - Christian Schmitt
+  - Samer Alhaddad
+  - Yevgen Grynko
+  - Jurgen Teich
+  - Jens Forstner
+  - Frank Hannig
 tags:
   - maxwell
   - c++

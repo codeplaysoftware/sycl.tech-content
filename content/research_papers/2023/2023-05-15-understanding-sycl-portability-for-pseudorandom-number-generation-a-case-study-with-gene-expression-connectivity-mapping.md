@@ -4,10 +4,8 @@ date: '2023-05-15T08:08:10.490000+00:00'
 title: 'Understanding SYCL Portability for Pseudorandom Number Generation: a Case Study with Gene-Expression Connectivity Mapping'
 external_url: https://ieeexplore.ieee.org/document/10196601
 authors:
-  - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
-  - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
+  - Zheming Jin
+  - Jeffrey S. Vetter
 tags:
   - portability
   - pseudorandom

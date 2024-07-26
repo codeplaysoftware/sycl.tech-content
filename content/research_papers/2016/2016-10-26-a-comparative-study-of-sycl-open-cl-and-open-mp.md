@@ -4,12 +4,9 @@ date: '2016-10-26T10:57:29+01:00'
 title: 'A Comparative Study of SYCL, OpenCL, and OpenMP'
 external_url: https://ieeexplore.ieee.org/document/7803697
 authors:
-  - name: Hércules Cardoso da Silva
-    affiliation: Inst. of Comput
-  - name: Flávia Pisani
-    affiliation: Institute of Computing,
-  - name: Edson Borin
-    affiliation: Institute of Computing
+  - Hércules Cardoso da Silva
+  - Flávia Pisani
+  - Edson Borin
 tags:
   - opencl
   - openmp

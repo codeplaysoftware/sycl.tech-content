@@ -4,10 +4,8 @@ date: '2023-09-05T08:08:10.490000+00:00'
 title: 'Experience Migrating OpenCL to SYCL: A Case Study on Searches for Potential Off-Target Sites of Cas9 RNA-Guided Endonucleases on AMD GPUs'
 external_url: https://ieeexplore.ieee.org/document/10256881
 authors:
-  - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
-  - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
+  - Zheming Jin
+  - Jeffrey S. Vetter
 tags:
   - sequence
   - analysis

@@ -4,14 +4,10 @@ date: '2022-12-23T08:08:10.490000+00:00'
 title: 'A memory bank conflict prevention mechanism for SYCL on SX-Aurora TSUBASA'
 external_url: https://ieeexplore.ieee.org/document/9644088
 authors:
-  - name: Wenbin Wang
-    affiliation: Tohoku University
-  - name: Jiahao Li
-    affiliation: Tohoku University
-  - name: Yohichi Shimomura
-    affiliation: Tohoku University
-  - name: Hiroyuki Takizawa
-    affiliation: Tohoku University
+  - Wenbin Wang
+  - Jiahao Li
+  - Yohichi Shimomura
+  - Hiroyuki Takizawa
 tags:
   - performance
   - runtime

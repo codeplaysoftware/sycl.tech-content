@@ -4,14 +4,10 @@ date: '2024-05-20T08:08:10.490000+00:00'
 title: 'Unveiling Performance Insights and Portability Achievements Between CUDA and SYCL for Particle-in-Cell Codes on Different GPU Architectures'
 external_url: https://ieeexplore.ieee.org/document/10569866
 authors:
-  - name: Ivona Vasileska
-    affiliation: University of Ljubljana
-  - name: Pavel Tomšič
-    affiliation: University of Ljubljana
-  - name: Leon Kos
-    affiliation: University of Ljubljana
-  - name: Leon Bogdanović
-    affiliation: University of Ljubljana
+  - Ivona Vasileska
+  - Pavel Tomšič
+  - Leon Kos
+  - Leon Bogdanović
 tags:
   - gpu
   - cuda

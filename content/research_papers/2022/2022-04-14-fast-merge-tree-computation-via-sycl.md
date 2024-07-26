@@ -4,10 +4,8 @@ date: '2022-04-14T08:08:10.490000+00:00'
 title: Fast Merge Tree Computation via SYCL
 external_url: https://arxiv.org/pdf/2301.10838.pdf
 authors:
-  - name: Arnur Nigmetov
-    affiliation: Lawrence Berkeley National Laboratory
-  - name: Dmitriy Morozov
-    affiliation: Lawrence Berkeley National Laboratory
+  - Arnur Nigmetov
+  - Dmitriy Morozov
 tags:
   - merge-tree
   - benchmarking

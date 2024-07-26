@@ -18,9 +18,7 @@
 #
 
 from markdownfeeds.Generators.Default.Models.FeedItem import FeedItem
-from markdownfeeds.Generators.Json.Models.Author import Author
 from markdownfeeds.Generators.Json.Models.JsonFeedItem import JsonFeedItem
-from markdownfeeds.MarkdownFile import MarkdownFile
 
 from src.feeds import BaseJsonFeed, Filters
 
@@ -37,14 +35,6 @@ class ResearchPaperFeed(BaseJsonFeed):
         super()._check_feed_items(feed_items)
         BaseJsonFeed._check_for_duplicates(feed_items, 'external_url')
 
-    def _inject_feed_item_details(
-            self, feed_item: JsonFeedItem, markdown_file: MarkdownFile) -> JsonFeedItem:
-        """
-        Inject any additional feed item details.
-        """
-        feed_item = self._inject_authors_into_featured(feed_item)
-        return super()._inject_feed_item_details(feed_item, markdown_file)
-
     def _sort_feed_items(
             self, feed_items: [FeedItem]) -> [FeedItem]:
         """
@@ -52,26 +42,6 @@ class ResearchPaperFeed(BaseJsonFeed):
         """
         feed_items.sort(key=lambda feed_item: feed_item.get('date_published'), reverse=True)
         return feed_items
-
-    @staticmethod
-    def _inject_authors_into_featured(
-        feed_item: JsonFeedItem
-    ) -> JsonFeedItem:
-        """
-        This function replaces any "authors" list items that reference a contributor using their username with
-        their contributor profile.
-        """
-        if not feed_item.has('authors'):
-            return feed_item
-
-        authors = feed_item.get('authors')
-        for key, value in enumerate(authors):
-            author = Author()
-            author.inject_dict(value)
-            authors[key] = author
-
-        feed_item.set('authors', authors)
-        return feed_item
 
     def _generate_filters(
         self,
@@ -84,5 +54,8 @@ class ResearchPaperFeed(BaseJsonFeed):
                 [filters.add_filter('tags', tag) for tag in feed_item.get('tags')]
 
             filters.add_filter('year', feed_item.markdown_file.date.year)
+
+            if feed_item.has_value('authors'):
+                [filters.add_filter('authors', author) for author in feed_item.get('authors')]
 
         return filters

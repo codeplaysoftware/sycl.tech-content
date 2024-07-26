@@ -4,8 +4,7 @@ date: '2022-05-18T08:08:10.490000+00:00'
 title: 'Towards automated kernel selection in machine learning systems: A SYCL case study'
 external_url: https://ieeexplore.ieee.org/document/9150358
 authors:
-  - name: John Lawson
-    affiliation: Codeplay Software Ltd
+  - John Lawson
 tags:
   - tuning
   - sycl

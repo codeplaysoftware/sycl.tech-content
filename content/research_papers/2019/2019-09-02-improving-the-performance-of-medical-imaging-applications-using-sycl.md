@@ -4,8 +4,7 @@ date: '2019-09-02T10:57:29+01:00'
 title: Improving the Performance of Medical Imaging Applications using SYCL
 external_url: https://publications.anl.gov/anlpubs/2019/12/157485.pdf
 authors:
-  - name: Zheming Jin
-    affiliation: Argonne Leadership Computing Facility
+  - Zheming Jin
 tags:
   - medical
   - scientific

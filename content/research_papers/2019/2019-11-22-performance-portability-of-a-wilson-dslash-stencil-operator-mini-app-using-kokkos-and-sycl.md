@@ -4,22 +4,14 @@ date: '2019-11-22T10:57:29+01:00'
 title: 'Performance Portability of a Wilson Dslash Stencil Operator Mini-App Using Kokkos and SYCL'
 external_url: https://ieeexplore.ieee.org/document/8945798
 authors:
-  - name: Bálint Joó
-    affiliation: Jefferson Lab
-  - name: Thorsten Kurth
-    affiliation: NERSC
-  - name: M. A. Clark
-    affiliation: NVIDIA
-  - name: Jeongnim Kim
-    affiliation: Intel Corporation
-  - name: Christian Robert Trott
-    affiliation: Sandia National Laboratories
-  - name: Dan Ibanez
-    affiliation: Sandia National Laboratories
-  - name: Daniel Sunderland
-    affiliation: Sandia National Laboratories
-  - name: Jack Deslippe
-    affiliation: NERSC
+  - Bálint Joó
+  - Thorsten Kurth
+  - M. A. Clark
+  - Jeongnim Kim
+  - Christian Robert Trott
+  - Dan Ibanez
+  - Daniel Sunderland
+  - Jack Deslippe
 tags:
   - kokkos
   - performance

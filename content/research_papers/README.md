@@ -13,10 +13,8 @@ date: '2022-04-14T08:08:10'
 title: My Research Paper
 external_url: https://link-to-paper.com/research-paper-1
 authors:
-  - name: John Smith
-    affiliation: University of Sycl
-  - name: Alice Ryan
-    affiliation: University of Space
+  - John Smith
+  - Alice Ryan
 ---
 
 Your description of the research paper here.

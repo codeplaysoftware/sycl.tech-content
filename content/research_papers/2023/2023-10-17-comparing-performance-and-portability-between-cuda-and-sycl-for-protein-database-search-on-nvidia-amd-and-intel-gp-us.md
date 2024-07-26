@@ -4,16 +4,11 @@ date: '2023-10-17T08:08:10.490000+00:00'
 title: 'Comparing Performance and Portability Between CUDA and SYCL for Protein Database Search on NVIDIA, AMD, and Intel GPUs'
 external_url: https://ieeexplore.ieee.org/document/10306194
 authors:
-  - name: Manuel Costanzo
-    affiliation: UNLP - CIC, La Plata
-  - name: Enzo Rucci
-    affiliation: UNLP - CIC, La Plata
-  - name: Carlos García-Sánchez
-    affiliation: Universidad Complutense de Madrid
-  - name: Marcelo Naiouf
-    affiliation: UNLP - CIC, La Plata
-  - name: Manuel Prieto-Matías
-    affiliation: Universidad Complutense de Madrid
+  - Manuel Costanzo
+  - Enzo Rucci
+  - Carlos García-Sánchez
+  - Marcelo Naiouf
+  - Manuel Prieto-Matías
 tags:
   - cuda
   - gpu

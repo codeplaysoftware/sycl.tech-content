@@ -4,20 +4,13 @@ date: '2021-11-14T08:08:10.490000+00:00'
 title: 'Case Study of Using Kokkos and SYCL as Performance-Portable Frameworks for Milc-Dslash Benchmark on NVIDIA, AMD and Intel GPUs'
 external_url: https://ieeexplore.ieee.org/document/9652859
 authors:
-  - name: Amanda S. Dufek
-    affiliation: NERSC/LBNL
-  - name: Rahulkumar Gayatri
-    affiliation: NERSC/LBNL
-  - name: Neil Mehta
-    affiliation: NERSC/LBNL
-  - name: Douglas Doerfler
-    affiliation: NERSC/LBNL
-  - name: Brandon Cook
-    affiliation: NERSC/LBNL
-  - name: Yasaman Ghadar
-    affiliation: Argonne National Laboratory
-  - name: Carleton DeTar
-    affiliation: University of Utah
+  - Amanda S. Dufek
+  - Rahulkumar Gayatri
+  - Neil Mehta
+  - Douglas Doerfler
+  - Brandon Cook
+  - Yasaman Ghadar
+  - Carleton DeTar
 tags:
   - kokkos
   - milc-dslash

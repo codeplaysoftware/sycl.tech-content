@@ -4,14 +4,10 @@ date: '2019-09-02T10:57:29+01:00'
 title: SYCL Code Generation for Multigrid Methods
 external_url: https://www.researchgate.net/publication/333139223_SYCL_Code_Generation_for_Multigrid_Methods
 authors:
-  - name: Stefan Groth
-    affiliation: Unknown
-  - name: Christian Schmitt
-    affiliation: Friedrich-Alexander-University of Erlangen-Nürnberg
-  - name: Jürgen Teich
-    affiliation: Unknown
-  - name: Frank Hannig
-    affiliation: Friedrich-Alexander-University of Erlangen-Nürnberg
+  - Stefan Groth
+  - Christian Schmitt
+  - Jürgen Teich
+  - Frank Hannig
 tags:
   - multigrid
   - c++

@@ -4,10 +4,8 @@ date: '2023-05-15T08:08:10.490000+00:00'
 title: 'Understanding Performance Portability of SYCL Kernels: A Case Study with the All-Pairs Distance Calculation in Bioinformatics on GPUs'
 external_url: https://ieeexplore.ieee.org/document/10196541
 authors:
-  - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
-  - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
+  - Zheming Jin
+  - Jeffrey S. Vetter
 tags:
   - portability
   - performance

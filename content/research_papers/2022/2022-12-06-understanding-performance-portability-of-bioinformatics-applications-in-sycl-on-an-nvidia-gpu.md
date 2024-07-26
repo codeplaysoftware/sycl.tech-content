@@ -4,10 +4,8 @@ date: '2022-12-06T08:08:10.490000+00:00'
 title: 'Understanding Performance Portability of Bioinformatics Applications in SYCL on an NVIDIA GPU'
 external_url: https://ieeexplore.ieee.org/document/9995222
 authors:
-  - name: Zheming Jin
-    affiliation: Oak Ridge National Laboratory
-  - name: Jeffrey S. Vetter
-    affiliation: Oak Ridge National Laboratory
+  - Zheming Jin
+  - Jeffrey S. Vetter
 tags:
   - performance
   - nvidia

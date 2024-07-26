@@ -4,8 +4,7 @@ date: '2019-09-02T10:57:29+01:00'
 title: Performance Portability of Multi-Material Kernels
 external_url: https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_p3hpc106s2-file1.pdf
 authors:
-  - name: Istvan Z. Reguly
-    affiliation: Faculty of Information Technology and Bionics Pazmany Peter Catholic University
+  - Istvan Z. Reguly
 tags:
   - portability
   - performance
