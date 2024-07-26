@@ -33,6 +33,7 @@ jobs:
           -a "${{ vars.CI_PAGES_URL }}/static/" \
           -b "${{ vars.CI_PAGES_URL }}/feed" \
           -g "${{ secrets.FRONT_END_REBUILD_TOKEN }}"
+          -d
     - name: Copy Generate Feeds
       run: |
         cp -R html/. static feed/
