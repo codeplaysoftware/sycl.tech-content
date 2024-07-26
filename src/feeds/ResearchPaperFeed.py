@@ -55,4 +55,7 @@ class ResearchPaperFeed(BaseJsonFeed):
 
             filters.add_filter('year', feed_item.markdown_file.date.year)
 
+            if feed_item.has_value('authors'):
+                [filters.add_filter('authors', author) for author in feed_item.get('authors')]
+
         return filters
