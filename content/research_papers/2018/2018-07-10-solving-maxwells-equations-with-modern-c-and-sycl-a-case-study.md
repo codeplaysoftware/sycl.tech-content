@@ -4,13 +4,13 @@ date: '2018-07-10T08:08:10.490000+00:00'
 title: 'Solving Maxwells Equations with Modern C++ and SYCL: A Case Study'
 external_url: https://ieeexplore.ieee.org/document/8445127
 authors:
-  - name: Ayesha Afzal
-  - name: Christian Schmitt
-  - name: Samer Alhaddad
-  - name: Yevgen Grynko
-  - name: Jurgen Teich
-  - name: Jens Forstner
-  - name: Frank Hannig
+  - Ayesha Afzal
+  - Christian Schmitt
+  - Samer Alhaddad
+  - Yevgen Grynko
+  - Jurgen Teich
+  - Jens Forstner
+  - Frank Hannig
 tags:
   - maxwell
   - c++

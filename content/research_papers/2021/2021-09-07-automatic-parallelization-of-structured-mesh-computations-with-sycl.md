@@ -4,8 +4,8 @@ date: '2021-06-07T08:08:10.490000+00:00'
 title: 'Automatic Parallelization of Structured Mesh Computations with SYCL'
 external_url: https://ieeexplore.ieee.org/document/9555976
 authors:
-  - name: Gábor Dániel Balogh
-  - name: István Reguly
+  - Gábor Dániel Balogh
+  - István Reguly
 tags:
   - parallel-programming
   - nvidia

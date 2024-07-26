@@ -4,8 +4,8 @@ date: '2022-11-18T08:08:10.490000+00:00'
 title: 'Evaluating Nonuniform Reduction in HIP and SYCL on GPUs'
 external_url: https://ieeexplore.ieee.org/document/10025472
 authors:
-  - name: Zheming Jin
-  - name: Jeffrey S. Vetter
+  - Zheming Jin
+  - Jeffrey S. Vetter
 tags:
   - reduction
   - nonuniform

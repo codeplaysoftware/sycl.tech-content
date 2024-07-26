@@ -4,13 +4,13 @@ date: '2023-12-18T08:08:10.490000+00:00'
 title: 'Migration of CUDA Based Seismic Application to Cross-Platform SYCL Implementation'
 external_url: https://ieeexplore.ieee.org/document/10502402
 authors:
-  - name: Om Jadhav
-  - name: Sandeep Agrawal
-  - name: Abhishek Srivastava
-  - name: Richa Rastogi
-  - name: Sanjay Wandhekar
-  - name: Vinutha SV
-  - name: Jyotsna Khemka
+  - Om Jadhav
+  - Sandeep Agrawal
+  - Abhishek Srivastava
+  - Richa Rastogi
+  - Sanjay Wandhekar
+  - Vinutha SV
+  - Jyotsna Khemka
 tags:
   - acoustic-waves
   - seismic-data

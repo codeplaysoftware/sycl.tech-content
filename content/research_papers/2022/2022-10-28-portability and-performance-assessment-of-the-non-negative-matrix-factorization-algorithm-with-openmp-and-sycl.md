@@ -4,9 +4,9 @@ date: '2022-10-28T08:08:10.490000+00:00'
 title: 'Portability and Performance Assessment of the Non-Negative Matrix Factorization Algorithm with OpenMP and SYCL'
 external_url: https://ieeexplore.ieee.org/document/9959906
 authors:
-  - name: Youssef Faqir-Rhazoui
-  - name: Carlos García
-  - name: Francisco Tirado
+  - Youssef Faqir-Rhazoui
+  - Carlos García
+  - Francisco Tirado
 tags:
   - openmp
   - sycl

@@ -4,9 +4,9 @@ date: '2022-05-18T08:08:10.490000+00:00'
 title: 'A Case Study on the HACCmk Routine in SYCL on Integrated Graphics'
 external_url: https://ieeexplore.ieee.org/document/9150310
 authors:
-  - name: Zheming Jin
-  - name: Vitali Morozov
-  - name: Hal Finkel
+  - Zheming Jin
+  - Vitali Morozov
+  - Hal Finkel
 tags:
   - compute
   - haccmk

@@ -4,10 +4,10 @@ date: '2022-04-14T08:08:10.490000+00:00'
 title: Comparing SYCL&trade; Data Transfer Strategies for Tracking Use Cases
 external_url: https://iopscience.iop.org/article/10.1088/1742-6596/2438/1/012018/pdf
 authors:
-  - name: Sylvain Joube
-  - name: Hadrien Grasland
-  - name: David Chamont
-  - name: Elisabeth Brunet
+  - Sylvain Joube
+  - Hadrien Grasland
+  - David Chamont
+  - Elisabeth Brunet
 tags:
   - performance
   - benchmarking

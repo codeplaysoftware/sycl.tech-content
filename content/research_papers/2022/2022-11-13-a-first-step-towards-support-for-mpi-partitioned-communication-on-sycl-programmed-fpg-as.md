@@ -4,9 +4,9 @@ date: '2022-11-13T08:08:10.490000+00:00'
 title: 'A First Step towards Support for MPI Partitioned Communication on SYCL-programmed FPGAs'
 external_url: https://ieeexplore.ieee.org/document/10027494
 authors:
-  - name: Steffen Christgau
-  - name: Marius Knaust
-  - name: Thomas Steinke
+  - Steffen Christgau
+  - Marius Knaust
+  - Thomas Steinke
 tags:
   - fpgas
   - mpi

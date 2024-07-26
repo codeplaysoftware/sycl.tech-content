@@ -4,15 +4,15 @@ date: '2019-09-02T10:57:29+01:00'
 title: Performance portability of a Wilson Dslash Stencil Operator Mini-App using Kokkos and SYCL
 external_url: https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_p3hpc116s2-file1.pdf
 authors:
-  - name: Bálint Joó
+  - Bálint Joó
     
-  - name: Thorsten Kurth
-  - name: M. A. Clark
-  - name: Jeongnim Kim
-  - name: Christian R. Trott
-  - name: Dan Ibanez
-  - name: Dan Sunderland
-  - name: Jack Deslippe
+  - Thorsten Kurth
+  - M. A. Clark
+  - Jeongnim Kim
+  - Christian R. Trott
+  - Dan Ibanez
+  - Dan Sunderland
+  - Jack Deslippe
 tags:
   - portability
   - benchmarking

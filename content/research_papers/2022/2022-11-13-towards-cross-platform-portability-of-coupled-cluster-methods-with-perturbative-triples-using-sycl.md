@@ -4,10 +4,10 @@ date: '2022-11-13T08:08:10.490000+00:00'
 title: 'Towards Cross-Platform Portability of Coupled-Cluster Methods with Perturbative Triples using SYCL'
 external_url: https://ieeexplore.ieee.org/document/10024604
 authors:
-  - name: Abhishek Bagusetty
-  - name: Ajay Panyala
-  - name: Gordon Brown
-  - name: Jack Kirk
+  - Abhishek Bagusetty
+  - Ajay Panyala
+  - Gordon Brown
+  - Jack Kirk
 tags:
   - performance
   - nvidia

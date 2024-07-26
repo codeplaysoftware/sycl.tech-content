@@ -4,10 +4,10 @@ date: '2019-09-02T10:57:29+01:00'
 title: 'Celerity: High-level C++ for Accelerator Clusters'
 external_url: https://www.cosenza.eu/papers/ThomanEUROPAR19.pdf
 authors:
-  - name: Peter Thoman
-  - name: Philip Salzmann
-  - name: Biagio Cosenza
-  - name: Thomas Fahringer
+  - Peter Thoman
+  - Philip Salzmann
+  - Biagio Cosenza
+  - Thomas Fahringer
 tags:
   - clusters
   - scientific

@@ -4,14 +4,14 @@ date: '2019-11-22T10:57:29+01:00'
 title: 'Performance Portability of a Wilson Dslash Stencil Operator Mini-App Using Kokkos and SYCL'
 external_url: https://ieeexplore.ieee.org/document/8945798
 authors:
-  - name: Bálint Joó
-  - name: Thorsten Kurth
-  - name: M. A. Clark
-  - name: Jeongnim Kim
-  - name: Christian Robert Trott
-  - name: Dan Ibanez
-  - name: Daniel Sunderland
-  - name: Jack Deslippe
+  - Bálint Joó
+  - Thorsten Kurth
+  - M. A. Clark
+  - Jeongnim Kim
+  - Christian Robert Trott
+  - Dan Ibanez
+  - Daniel Sunderland
+  - Jack Deslippe
 tags:
   - kokkos
   - performance

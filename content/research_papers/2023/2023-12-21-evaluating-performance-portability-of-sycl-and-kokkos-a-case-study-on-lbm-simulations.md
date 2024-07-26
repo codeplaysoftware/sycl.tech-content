@@ -4,13 +4,13 @@ date: '2023-12-21T08:08:10.490000+00:00'
 title: 'Evaluating Performance Portability of SYCL and Kokkos: A Case Study on LBM Simulations'
 external_url: https://ieeexplore.ieee.org/document/10491773
 authors:
-  - name: Yue Ding
-  - name: Chuanfu Xu
-  - name: Haozhong Qiu
-  - name: Qingsong Wang
-  - name: Weixi Dai
-  - name: Yongzhen Lin
-  - name: Yonggang Che
+  - Yue Ding
+  - Chuanfu Xu
+  - Haozhong Qiu
+  - Qingsong Wang
+  - Weixi Dai
+  - Yongzhen Lin
+  - Yonggang Che
 tags:
   - kokkos
   - performance

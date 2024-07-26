@@ -4,8 +4,8 @@ date: '2019-11-18T10:57:29+01:00'
 title: Evaluation of Medical Imaging Applications using SYCL
 external_url: https://ieeexplore.ieee.org/document/8982983
 authors:
-  - name: Zheming Jin
-  - name: Hal Finkel
+  - Zheming Jin
+  - Hal Finkel
 tags:
   - benchmark
   - performance

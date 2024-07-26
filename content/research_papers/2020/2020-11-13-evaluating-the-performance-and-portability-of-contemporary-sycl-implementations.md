@@ -4,9 +4,9 @@ date: '2020-11-13T08:08:10.490000+00:00'
 title: 'Evaluating the Performance and Portability of Contemporary SYCL Implementations'
 external_url: https://ieeexplore.ieee.org/document/9309045
 authors:
-  - name: Beau Johnston
-  - name: Jeffrey S. Vetter
-  - name: Josh Milthorpe
+  - Beau Johnston
+  - Jeffrey S. Vetter
+  - Josh Milthorpe
 tags:
   - benchmarks
   - performance

@@ -4,14 +4,14 @@ date: '2024-03-02T08:08:10.490000+00:00'
 title: 'Experiences Building an MLIR-Based SYCL Compiler'
 external_url: https://ieeexplore.ieee.org/document/10444866
 authors:
-  - name: Ettore Tiotto
-  - name: Víctor Pérez
-  - name: Whitney Tsang
-  - name: Lukas Sommer
-  - name: Julian Oppermann
-  - name: Victor Lomüller
-  - name: Mehdi Goli
-  - name: James Brodman
+  - Ettore Tiotto
+  - Víctor Pérez
+  - Whitney Tsang
+  - Lukas Sommer
+  - Julian Oppermann
+  - Victor Lomüller
+  - Mehdi Goli
+  - James Brodman
 tags:
   - SYCL
   - MLIR

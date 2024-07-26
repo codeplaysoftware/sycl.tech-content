@@ -5,7 +5,7 @@ title: 'Innovative language extensions for accelerator cards using the example o
   SYCL, HC, HIP and CUDA: research on usability and performance'
 external_url: https://github.com/j-stephan/fpg/blob/master/paper.pdf
 authors:
-  - name: Jan Stephan
+  - Jan Stephan
 tags:
   - benchmarking
   - cuda
