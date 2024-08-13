@@ -9,11 +9,10 @@ tags:
   - risc-v
 ---
 
-This talk will show attendees how to overcome proprietary code with RISC-V and SYCL. 
-They will learn how they can achieve code portability and adopt RISC-V hardware without 
-losing their existing work, for greater productivity.
+This talk will show attendees how to overcome proprietary code with RISC-V and SYCL. They will learn how they can
+achieve code portability and adopt RISC-V hardware without losing their existing work, for greater productivity.
 
-The talk will also highlight the ongoing research into pioneering applications for RISC-V, 
-funded by the EU Horizon programme. AERO and SYCLOPS are two such projects. AERO seeks 
-to enable the future heterogeneous EU cloud infrastructure, while SYCLOPS will bring 
-together the RISC-V and SYCL standards together into a single software stack for the first time.
+The talk will also highlight the ongoing research into pioneering applications for RISC-V, funded by the EU Horizon
+programme. AERO and SYCLOPS are two such projects. AERO seeks to enable the future heterogeneous EU cloud
+infrastructure, while SYCLOPS will bring together the RISC-V and SYCL standards together into a single software stack
+for the first time.
