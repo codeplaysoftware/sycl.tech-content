@@ -16,12 +16,12 @@ tags:
   - hip
 ---
 
-Computational platforms for high-performance scientific applications are becoming more heterogenous, including hardware 
-accelerators such as multiple GPUs. Applications in a wide variety of scientific fields require an efcient and careful 
+Computational platforms for high-performance scientific applications are becoming more heterogeneous, including hardware 
+accelerators such as multiple GPUs. Applications in a wide variety of scientific fields require an efficient and careful 
 management of the computational resources of this type of hardware to obtain the best possible performance. However, 
 there are currently different GPU vendors, architectures and families that can be found in heterogeneous clusters or 
 machines. Programming with the vendor provided languages or frameworks, and optimizing for specific devices, may become 
-cumbersome and compromise porta-bility to other systems. To overcome this problem, several proposals for high-level 
+cumbersome and compromise portability to other systems. To overcome this problem, several proposals for high-level 
 heterogeneous programming have appeared, trying to reduce the development effort and increase functional and performance 
 portability, specifically when using GPU hardware accelerators. This paper evaluates the SYCL programming model, using the 
 Open SYCL compiler, from two different perspectives: The performance it offers when dealing with single or multiple GPU devices 
