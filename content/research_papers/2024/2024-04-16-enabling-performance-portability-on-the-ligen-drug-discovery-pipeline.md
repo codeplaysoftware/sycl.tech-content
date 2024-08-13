@@ -1,6 +1,6 @@
 ---
 contributor: max
-date: '2024-04-16T08:08:10.490000+00:00'
+date: '2024-04-16T08:08:10.490000'
 title: 'Enabling performance portability on the LiGen drug discovery pipeline'
 external_url: https://www.sciencedirect.com/science/article/pii/S0167739X24001195
 authors:

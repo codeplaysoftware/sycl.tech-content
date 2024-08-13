@@ -1,6 +1,6 @@
 ---
 contributor: max
-date: '2024-01-05T08:08:10.490000+00:00'
+date: '2024-01-05T08:08:10.490000'
 title: 'Preliminary report: Initial evaluation of StdPar implementations on AMD GPUs for HPC'
 external_url: https://arxiv.org/pdf/2401.02680
 authors:

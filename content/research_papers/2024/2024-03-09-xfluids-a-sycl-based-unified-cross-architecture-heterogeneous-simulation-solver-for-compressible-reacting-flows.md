@@ -1,6 +1,6 @@
 ---
 contributor: max
-date: '2024-03-09T08:08:10.490000+00:00'
+date: '2024-03-09T08:08:10.490000'
 title: 'XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows'
 external_url: https://arxiv.org/abs/2403.05910
 authors:

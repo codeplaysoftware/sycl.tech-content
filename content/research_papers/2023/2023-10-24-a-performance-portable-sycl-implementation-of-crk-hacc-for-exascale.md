@@ -1,6 +1,6 @@
 ---
 contributor: max
-date: '2023-10-24T08:08:10.490000+00:00'
+date: '2023-10-24T08:08:10.490000'
 title: 'A Performance-Portable SYCL Implementation of CRK-HACC for Exascale'
 external_url: https://arxiv.org/pdf/2310.16122
 authors:
