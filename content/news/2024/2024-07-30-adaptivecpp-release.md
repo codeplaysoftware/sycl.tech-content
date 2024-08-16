@@ -11,5 +11,5 @@ tags:
   - portability
 ---
 
-AdaptiveCpp as the open-source compiler formerly known as hypSYCL and Open SYCL is out with 
-a new feature release for this C++ heterogeneous compiler supporting all major CPUs and GPUs
+AdaptiveCpp as the open-source compiler formerly known as hypSYCL and Open SYCL is out with a new feature release for
+this C++ heterogeneous compiler supporting all major CPUs and GPUs.
