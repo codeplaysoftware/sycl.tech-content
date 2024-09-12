@@ -4,11 +4,11 @@ date: '2023-10-01T08:08:10.490000'
 title: 'Open SYCL on heterogeneous GPU systems: A case of study'
 external_url: https://arxiv.org/ftp/arxiv/papers/2310/2310.06947.pdf
 authors:
-  - name: Rocío Carratalá-Sáez
-  - name: Francisco J. Andújar
-  - name: Yuri Torres
-  - name: Arturo Gonzalez-Escribano
-  - name: Diego R. Llanos
+  - Rocío Carratalá-Sáez
+  - Francisco J. Andújar
+  - Yuri Torres
+  - Arturo Gonzalez-Escribano
+  - Diego R. Llanos
 tags:
   - gpu
   - cuda

@@ -4,9 +4,9 @@ date: '2024-01-05T08:08:10.490000'
 title: 'Preliminary report: Initial evaluation of StdPar implementations on AMD GPUs for HPC'
 external_url: https://arxiv.org/pdf/2401.02680
 authors:
-  - name: Wei-Chen Lin
-  - name: Simon McIntosh-Smith
-  - name: Tom Deakin
+  - Wei-Chen Lin
+  - Simon McIntosh-Smith
+  - Tom Deakin
 tags:
   - sycl
   - gpu
