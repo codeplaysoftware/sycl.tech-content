@@ -4,12 +4,12 @@ date: '2023-10-24T08:08:10.490000'
 title: 'A Performance-Portable SYCL Implementation of CRK-HACC for Exascale'
 external_url: https://arxiv.org/pdf/2310.16122
 authors:
-  - name: Esteban M. Rangel
-  - name: S. John Pennycook
-  - name: Adrian Pope
-  - name: Nicholas Frontiere
-  - name: Zhiqiang Ma
-  - name: Varsha Madananth
+  - Esteban M. Rangel
+  - S. John Pennycook
+  - Adrian Pope
+  - Nicholas Frontiere
+  - Zhiqiang Ma
+  - Varsha Madananth
 tags:
   - sycl
   - hpc

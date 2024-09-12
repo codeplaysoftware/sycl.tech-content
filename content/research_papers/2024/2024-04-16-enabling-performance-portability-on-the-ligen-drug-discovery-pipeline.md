@@ -4,15 +4,15 @@ date: '2024-04-16T08:08:10.490000'
 title: 'Enabling performance portability on the LiGen drug discovery pipeline'
 external_url: https://www.sciencedirect.com/science/article/pii/S0167739X24001195
 authors:
-  - name: Luigi Crisci
-  - name: Lorenzo Carpentieri
-  - name: Biagio Cosenza
-  - name: Leon Bogdanović
-  - name: Gianmarco Accordi
-  - name: Davide Gadioli
-  - name: Emanuele Vitali
-  - name: Gianluca Palermo
-  - name: Andrea Rosario Beccari
+  - Luigi Crisci
+  - Lorenzo Carpentieri
+  - Biagio Cosenza
+  - Leon Bogdanović
+  - Gianmarco Accordi
+  - Davide Gadioli
+  - Emanuele Vitali
+  - Gianluca Palermo
+  - Andrea Rosario Beccari
 tags:
   - gpu
   - sycl

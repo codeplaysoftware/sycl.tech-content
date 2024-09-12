@@ -4,9 +4,9 @@ date: '2024-01-24T08:08:10.490000'
 title: 'Lessons Learned Migrating CUDA to SYCL: A HEP Case Study with ROOT RDataFrame'
 external_url: https://arxiv.org/pdf/2401.13310
 authors:
-  - name: Jolly Chen
-  - name: Monica Dessole
-  - name: Ana Lucia Varbanescu
+  - Jolly Chen
+  - Monica Dessole
+  - Ana Lucia Varbanescu
 tags:
   - sycl
   - gpu
