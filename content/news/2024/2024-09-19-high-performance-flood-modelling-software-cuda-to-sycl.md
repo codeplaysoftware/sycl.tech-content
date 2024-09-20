@@ -11,9 +11,8 @@ tags:
   - portability
 ---
 
-Floods cause enormous damage each year, posing significant threats to people and infrastructure.
-Due to climate change, we are seeing more frequent and severe flood events around the world. 
-Hydrodynamic flood models are powerful tools to help with reducing flood risks. They can simulate
-the behaviour of water flow and the extent of flooding during a flood event. These models are 
-essential for predicting floods and understanding flood risks, and ultimately help increase 
+Floods cause enormous damage each year, posing significant threats to people and infrastructure. Due to climate change,
+we are seeing more frequent and severe flood events around the world. Hydrodynamic flood models are powerful tools to
+help with reducing flood risks. They can simulate the behaviour of water flow and the extent of flooding during a flood
+event. These models are essential for predicting floods and understanding flood risks, and ultimately help increase
 societal resilience.
