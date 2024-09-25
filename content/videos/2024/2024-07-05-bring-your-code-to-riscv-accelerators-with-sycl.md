@@ -7,6 +7,9 @@ type: presentation
 tags:
   - hpc
   - risc-v
+featuring:
+  - name: Charles MacFarlane
+    affiliation_at_video_production_time: Codeplay Software
 ---
 
 This talk will show attendees how to overcome proprietary code with RISC-V and SYCL. They will learn how they can
