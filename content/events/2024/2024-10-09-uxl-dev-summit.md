@@ -2,7 +2,7 @@
 contributor: max
 date: '2024-09-19T14:46:00'
 starts: '2024-10-09T22:00:00-0500'
-ends: '2024-10-10T09:00:00-0500'
+ends: '2024-10-10T17:30:00-0500'
 title: 'oneAPI Dev Summit Hosted by the UXL Foundation'
 external_url: 'https://oneapi.io/events/oneapi-devsummit-hosted-by-uxl-foundation/'
 ---
