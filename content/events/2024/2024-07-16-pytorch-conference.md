@@ -1,8 +1,8 @@
 ---
 contributor: scott
 date: '2024-07-16T14:46:00'
-starts: '2024-09-18T08:00:10-0700'
-ends: '2024-09-19T17:25:10-0700'
+starts: '2024-09-18T08:00:10-07:00'
+ends: '2024-09-19T17:25:10-07:00'
 title: 'PyTorch Conference 2024'
 location: 'San Fransisco, California, USA'
 external_url: 'https://events.linuxfoundation.org/pytorch-conference/'
