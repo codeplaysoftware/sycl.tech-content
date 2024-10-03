@@ -1,8 +1,8 @@
 ---
 contributor: max
 date: '2024-09-19T14:46:00'
-starts: '2024-12-02T13:00:10-0500'
-ends: '2024-12-04T14:00:10-0500'
+starts: '2024-12-02T13:00:10-05:00'
+ends: '2024-12-04T14:00:10-05:00'
 title: 'SYCL Hackathon @ CINECA'
 external_url: 'https://eventi.cineca.it/en/hpc/reserved-course/bologna-20241202'
 ---

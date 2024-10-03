@@ -1,8 +1,8 @@
 ---
 contributor: scott
 date: '2024-09-30T12:11:00'
-starts: '2024-09-23T08:45:00+0200'
-ends: '2024-09-25T12:40:00+0200'
+starts: '2024-09-23T08:45:00+02:00'
+ends: '2024-09-25T12:40:00+02:00'
 title: 'Introduction to oneAPI, SYCL2020 and OpenMP offloading'
 external_url: 'https://oneapi.io/events/oneapi-devsummit-hosted-by-uxl-foundation/'
 location: 'Online'

@@ -1,8 +1,8 @@
 ---
 contributor: scott
 date: '2024-09-30T12:11:00'
-starts: '2024-10-10T09:30:00+0200'
-ends: '2024-10-10T11:30:00+0200'
+starts: '2024-10-10T09:30:00+02:00'
+ends: '2024-10-10T11:30:00+02:00'
 title: 'Heterogeneous computing with SYCL and oneAPI on CINECA’s Leonardo'
 external_url: 'https://epicure-hpc.eu/2024/09/25/heterogeneous-computing-with-sycl-and-oneapi-on-cinecas-leonardo/'
 location: 'Online'
