@@ -1,8 +1,8 @@
 ---
 contributor: max
 date: '2024-09-19T14:46:00'
-starts: '2024-11-17T08:30:00-05:00'
-ends: '2024-11-17T12:00:00-05:00'
+starts: '2024-11-17T08:30:00-04:00'
+ends: '2024-11-17T12:00:00-04:00'
 title: 'Tutorial @ SC24 | Hands-On HPC and AI Application Development Using C++ and SYCL'
 external_url: 'https://sc24.conference-program.com/presentation/?id=tut117&sess=sess418'
 ---
