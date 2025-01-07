@@ -2,7 +2,7 @@
 contributor: max
 date: '2025-01-22T14:46:00'
 starts: '2025-01-22T13:00:00-05:00'
-ends: '2024-12-04T16:30:00-05:00'
+ends: '2025-12-04T16:30:00-05:00'
 title: 'An introduction to developing highly parallel applications using C++ and SYCL'
 external_url: 'https://www.hipeac.net/2025/barcelona/#/program/sessions/8191/'
 ---
