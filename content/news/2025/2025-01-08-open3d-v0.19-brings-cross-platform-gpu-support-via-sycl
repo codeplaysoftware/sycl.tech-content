@@ -1,0 +1,16 @@
+---
+contributor: max
+date: '2025-01-08T14:10:22.153253'
+external_url: https://www.phoronix.com/news/Open3D-v0.19-Released
+title: 'Open3D v0.19 Brings Cross-Platform GPU Support Via SYCL'
+image: ../../../static/images/news/2025-01-08-open3d-v0.19-brings-cross-platform-gpu-support-via-sycl.php.webp
+tags:
+  - sycl
+  - portability
+---
+
+Open3D v0.19 is out as the newest feature release to this open-source library
+for 3D data processing in C++ and Python. Open3D provides various 3D data structures,
+processing algorithms, 3D visualizations, physically based GPU rendering,
+and machine learning integration with the likes of PyTorch and TensorFlow to offer
+powerful 3D data processing capabilities.
