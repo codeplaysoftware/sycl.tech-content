@@ -61,7 +61,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build Front-End
-        uses: convictional/trigger-workflow-and-wait@924e4984551efec603bec665c0663332498c381a
+        uses: convictional/trigger-workflow-and-wait@f69fa9eedd3c62a599220f4d5745230e237904be
         with:
           owner: codeplaysoftware
           repo: sycl.tech-website
