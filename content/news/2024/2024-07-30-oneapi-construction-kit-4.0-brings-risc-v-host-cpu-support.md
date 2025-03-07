@@ -4,6 +4,7 @@ date: '2024-07-30T14:10:22.153253'
 external_url: https://www.phoronix.com/news/oneAPI-Construction-Kit-4.0
 title: 'oneAPI Construction Kit 4.0 Brings RISC-V Host CPU Support'
 image: ../../../static/images/news/2024-07-30-oneapi-construction-kit.webp
+pinned: true
 tags:
   - oneapi
   - sycl

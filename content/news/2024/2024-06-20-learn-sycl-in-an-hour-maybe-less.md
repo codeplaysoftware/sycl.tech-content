@@ -4,6 +4,7 @@ date: '2024-06-20T14:20:58.323249'
 external_url: https://www.intel.com/content/www/us/en/developer/articles/technical/learn-sycl-in-an-hour-maybe-less.html
 title: 'Learn SYCL* in an Hour (Maybe Less)'
 image: ../../../static/images/news/2024-06-20-learn-sycl-in-an-hour-maybe-less.webp
+pinned: true
 tags:
   - sycl
   - learning
