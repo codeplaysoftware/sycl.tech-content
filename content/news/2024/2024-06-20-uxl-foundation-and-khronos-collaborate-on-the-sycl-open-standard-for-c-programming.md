@@ -4,7 +4,6 @@ date: '2024-06-20T14:10:22.153253'
 external_url: https://www.khronos.org/blog/uxl-foundation-khronos-liaison-on-the-sycl-and-safety-critical-systems
 title: 'UXL Foundation and Khronos Collaborate on the SYCL Open Standard for C++ Programming'
 image: ../../../static/images/news/2024-06-20-uxl-foundation-and-khronos-collaborate-on-the-sycl-open-standard-for-c-programming.webp
-pinned: false
 tags:
   - edge-computing
   - performance
