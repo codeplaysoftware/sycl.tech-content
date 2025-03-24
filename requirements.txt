@@ -16,8 +16,9 @@ html2text==2024.2.26 \
     --hash=sha256:05f8e367d15aaabc96415376776cdd11afd5127a77fce6e36afc60c563ca2c32
 idna==3.7 \
     --hash=sha256:82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0
-Markdown==3.6 \
-    --hash=sha256:48f276f4d8cfb8ce6527c8f79e2ee29708508bf4d40aa410fbc3b4ee832c850f
+Markdown==3.7 \
+    --hash=sha256:2ae2471477cfd02dbbf038d5d9bc226d40def84b4fe2986e49b59b6b472bbed2 \
+    --hash=sha256:7eb6df5690b81a1d7942992c97fad2938e956e79df20cbc6186e9c3a77b1c803
 PyYAML==6.0.1 \
     --hash=sha256:bfdf460b1736c775f2ba9f6a92bca30bc2095067b8a9d77876d1fad6cc3b4a43
 requests==2.32.3 \
