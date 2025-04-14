@@ -72,7 +72,7 @@ class ImplementationActivityFeed(BaseJsonFeed):
         ImplementationActivityFeed.ACTIVITY += ImplementationActivityFeed.fetch_github_activity(
             'AdaptiveCpp',
             'AdaptiveCpp',
-            'master'
+            'develop'
         )
 
         ImplementationActivityFeed.ACTIVITY += ImplementationActivityFeed.fetch_github_activity(
