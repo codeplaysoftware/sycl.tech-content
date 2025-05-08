@@ -19,6 +19,7 @@
 
 import json
 import logging
+import os
 import re
 
 from markdownfeeds.Generators import GeneratorSettings
@@ -164,6 +165,21 @@ class BaseJsonFeed(JsonFeedGenerator):
             return re.sub(r"[./]+/static/", f'{asset_base_url.rstrip("/")}/', input_string)
 
         return input_string
+
+    def _verify_asset_exists(
+        self,
+        feed_item: FeedItem,
+        asset_path: str
+    ):
+        """
+        Ensure an asset path exists, relative to the markdown file its referenced from.
+        """
+        asset_image_path = os.path.abspath(
+            os.path.join(
+                os.path.dirname(feed_item.markdown_file.file_path), asset_path))
+
+        if not os.path.exists(asset_image_path):
+            raise ValueError(f'Asset for feed item "{feed_item.markdown_file.file_path}" does not exist.')
 
     async def _export_feed(
         self,

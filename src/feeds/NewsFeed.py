@@ -43,6 +43,9 @@ class NewsFeed(BaseJsonFeed):
         if not feed_item.has('image') or feed_item.get('image') is None:
             raise ValueError(f'Missing an image for on news feed item "{feed_item.markdown_file.file_path}".')
 
+        # Ensure the image exists
+        self._verify_asset_exists(feed_item, feed_item.get('image'))
+
     def _inject_feed_item_details(
         self,
         feed_item: JsonFeedItem,
