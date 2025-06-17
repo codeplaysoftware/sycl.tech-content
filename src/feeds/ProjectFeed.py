@@ -109,7 +109,9 @@ class ProjectFeed(BaseJsonFeed):
         """
         Using GitHub, GitLab, Other APIs, load in more useful repository information.
         """
-        if 'github.com' in markdown_file.front_matter['external_url']:
+        external_url = str(markdown_file.front_matter['external_url'])
+
+        if external_url.startswith('https://github.com'):
             return self._inject_github_repository_information(
                 json_feed_item, markdown_file)
         elif 'gitlab_project_id' in markdown_file.front_matter:
